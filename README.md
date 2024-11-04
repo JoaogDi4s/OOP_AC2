@@ -1,2 +1,11 @@
 # OOP_AC2
-OOP (Object-Oriented Programming) AC2
+This project was made by:
+    Danielle Namie Yoshimura;
+    João Guilherme Dias Rodrigues;
+    Rafaela Marins Mello.
+
+Professor:
+    Amauri Antunes Filho
+
+College:
+    FACENS  
